@@ -79,6 +79,7 @@ footer {
     bottom: 0px;
     width: 100%;
     height: 50px;
+    
 }
 
 /* KONTAKT */
@@ -392,7 +393,10 @@ main{
   margin: 0 0 0.5em 0;
   font-size: 1.1em;
 }
-
+.footer-spacer {
+    height: 50px; /* Wysokość stopki */
+    clear: both; /* Ważne, aby upewnić się, że nie ma floatujących elementów obok */
+}
 .przepis p {
   margin: 0;
   line-height: 1.2em;
