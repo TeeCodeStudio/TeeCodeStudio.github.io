@@ -1,11 +1,11 @@
 // --- Lista przepisów skróconych (link do strony dania, ścieżka do obrazka, nazwa, opis) ---
 const przepisy = [
   ["danie.html?przepis=cezar", "IMG/Cezar.JPEG", "Sałatka Cezar", "Pyszna sałatka z kurczakiem, sałatą i sosem Cezar."],
-  ["danie.html?przepis=kurczak", "IMG/kurczak.png", "Kurczak pieczony", "Soczysty kurczak pieczony w ziołach i czosnku."],
-  ["danie.html?przepis=pomidorowa", "IMG/pomidorowa.png", "Zupa pomidorowa", "Klasyczna zupa pomidorowa z makaronem."],
+  ["danie.html?przepis=kurczak", "IMG/kurczak.JPG", "Kurczak pieczony", "Soczysty kurczak pieczony w ziołach i czosnku."],
+  ["danie.html?przepis=pomidorowa", "IMG/pomidorowa.JPG", "Zupa pomidorowa", "Klasyczna zupa pomidorowa z makaronem."],
   ["danie.html?przepis=salatka-tunczyk", "IMG/salatka-z-tunczykiem.JPEG", "Sałatka z tuńczykiem", "Sałatka z tuńczykiem, warzywami i jajkiem."],
   ["danie.html?przepis=spaghetti", "IMG/spaghetti.JPEG", "Spaghetti z sosem", "Spaghetti z aromatycznym sosem pomidorowym."],
-  ["danie.html?przepis=rosol", "IMG/rosol.png", "Rosół domowy", "Tradycyjny rosół z kury, idealny na zimne dni."]
+  ["danie.html?przepis=rosol", "IMG/rosol.JPG", "Rosół domowy", "Tradycyjny rosół z kury, idealny na zimne dni."]
 ];
 
 // Baza dań
