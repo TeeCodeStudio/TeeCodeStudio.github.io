@@ -50,12 +50,15 @@ header p {
 
 /* NAWIGACJA*/
 nav {
+    position: fixed; /* Zmienia pozycjonowanie na stałe */
+    top: 1em;
+    left: 1em;
     display: flex;
-    justify-content: center;
-    background-color: #fff;
-    padding: 1em;
-    gap: 2em;
-    border-bottom: 1px solid #ddd;
+    gap: 1em;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 0.5em 1em;
+    border-radius: 10px;
+    z-index: 1000; /* Dodaje wysoki z-index, aby nawigacja była zawsze na wierzchu */
 }
 
 /* linki */
