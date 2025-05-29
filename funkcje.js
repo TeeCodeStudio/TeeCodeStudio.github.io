@@ -43,7 +43,7 @@ const dania = [
     title: "Pieczony kurczak z warzywami",
     subtitle: "Aromatyczny kurczak z ziołami, papryką i ziemniakami",
     headerText: "Odkrywaj smaczne i inspirujące przepisy kulinarne",
-    image: "IMG/kurczak.jpg",
+    image: "IMG/kurczak.JPG",
     ingredients: [
       "1 kurczak o wadze 2 kg",
       "sól i świeżo zmielony pieprz",
@@ -106,7 +106,7 @@ const dania = [
     title: "Rosół",
     subtitle: "Tradycyjny, aromatyczny rosół na kurczaku i wołowinie",
     headerText: "Klasyczny domowy rosół - baza wielu polskich zup",
-    image: "IMG/rosół.JPG",
+    image: "IMG/rosol.JPG",
     ingredients: [
       "1 kurczak o wadze około 2 kg lub 2 duże uda i 1 korpus z kurczaka",
       "300 g wołowiny (antrykot, szponder, oczko wołowe)",
