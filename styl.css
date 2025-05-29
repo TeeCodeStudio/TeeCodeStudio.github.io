@@ -205,6 +205,7 @@ main{
     /* Zmiana koloru strony */
     body{
         background: #FFF;
+        padding-top: 60px;
     }
 
     /* zmiana obrazka nagłówka */
@@ -222,6 +223,7 @@ main{
         background-color: rgba(0, 0, 0, 0.5);
         padding: 0.5em 1em;
         border-radius: 10px;
+        z-index: 1000; /* Upewnij się, że z-index jest wystarczająco wysoki */
     }
 
     nav a {
